@@ -10,6 +10,16 @@ A construction firm wants to develop a suburban locality with new infrastructure
  analytics firm to get insights on how densely the area is populated and the income levels
  of residents. Use the Support Vector Machines algorithm on the given dataset and draw out
  insights and also comment on the viability of investing in that area.
+ 
+ Business Objectives:
+Minimize Risk: Assess the potential market demand for the developed properties to avoid losses.
+Maximize Profit: Sell properties at optimal prices by understanding the demographics and income levels of potential buyers.
+Strategic Investment: Make informed decisions about investing in infrastructure development based on population density and income levels.
+
+Constraints:
+Data Quality: Ensure the dataset is reliable and representative of the target population.
+Model Interpretability: Interpret the SVM model's results to draw meaningful insights for decision-making.
+Resource Allocation: Allocate resources efficiently based on the predicted demand and market potential.
 
 '''
 import pandas as pd
